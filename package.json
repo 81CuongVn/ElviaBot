@@ -14,7 +14,7 @@
   "private": true,
   "devDependencies": {
     "eslint": "^8.20.0",
-    "semver": "^7.3.7"
+    "semver": "^7.5.2"
   },
   "dependencies": {
     "@anishshobith/deeptype": "^1.1.0",
