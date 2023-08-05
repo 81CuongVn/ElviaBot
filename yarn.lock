@@ -19,22 +19,22 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/runtime@npm:^7.18.3":
-  version: 7.18.3
-  resolution: "@babel/runtime@npm:7.18.3"
+"@babel/runtime@npm:^7.22.6":
+  version: 7.22.6
+  resolution: "@babel/runtime@npm:7.22.6"
   dependencies:
-    regenerator-runtime: ^0.13.4
-  checksum: db8526226aa02cfa35a5a7ac1a34b5f303c62a1f000c7db48cb06c6290e616483e5036ab3c4e7a84d0f3be6d4e2148d5fe5cec9564bf955f505c3e764b83d7f1
+    regenerator-runtime: ^0.13.11
+  checksum: e585338287c4514a713babf4fdb8fc2a67adcebab3e7723a739fc62c79cfda875b314c90fd25f827afb150d781af97bc16c85bfdbfa2889f06053879a1ddb597
   languageName: node
   linkType: hard
 
-"@dice-roller/rpg-dice-roller@npm:^5.1.0":
-  version: 5.1.0
-  resolution: "@dice-roller/rpg-dice-roller@npm:5.1.0"
+"@dice-roller/rpg-dice-roller@npm:^5.4.1":
+  version: 5.4.1
+  resolution: "@dice-roller/rpg-dice-roller@npm:5.4.1"
   dependencies:
-    mathjs: ^10.0.0
+    mathjs: ^11.2.1
     random-js: ^2.1.0
-  checksum: bc068435876c915f6dc6f4ee94f3be9ae7c42f5c3cc233a26b5eb04dc0e822bb9370de6e3d2a10296a1777e7397fd03ac82a2e0ffafcb29eb7dd5f0431e9ec1d
+  checksum: 776bf286cc73cbeb162ae42aa7cdbd26f39be64655c95286da191fde1b36a7cc613b393d82ce9f81409131fe66c0471a348ef468dcdcb155e6500745170dc230
   languageName: node
   linkType: hard
 
@@ -736,10 +736,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"decimal.js@npm:^10.3.1":
-  version: 10.3.1
-  resolution: "decimal.js@npm:10.3.1"
-  checksum: 0351ac9f05fe050f23227aa6a4573bee2d58fa7378fcf28d969a8c789525032effb488a90320fd3fe86a66e17b4bc507d811b15eada5b7f0e7ec5d2af4c24a59
+"decimal.js@npm:^10.4.3":
+  version: 10.4.3
+  resolution: "decimal.js@npm:10.4.3"
+  checksum: 796404dcfa9d1dbfdc48870229d57f788b48c21c603c3f6554a1c17c10195fc1024de338b0cf9e1efe0c7c167eeb18f04548979bcc5fdfabebb7cc0ae3287bae
   languageName: node
   linkType: hard
 
@@ -865,7 +865,7 @@ __metadata:
   resolution: "elvia@workspace:."
   dependencies:
     "@anishshobith/deeptype": ^1.1.0
-    "@dice-roller/rpg-dice-roller": ^5.1.0
+    "@dice-roller/rpg-dice-roller": ^5.4.1
     "@discordjs/rest": ^0.6.0
     "@iamtraction/google-translate": ^1.1.2
     axios: ^0.27.2
@@ -1785,22 +1785,22 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mathjs@npm:^10.0.0":
-  version: 10.6.3
-  resolution: "mathjs@npm:10.6.3"
+"mathjs@npm:^11.2.1":
+  version: 11.9.1
+  resolution: "mathjs@npm:11.9.1"
   dependencies:
-    "@babel/runtime": ^7.18.3
+    "@babel/runtime": ^7.22.6
     complex.js: ^2.1.1
-    decimal.js: ^10.3.1
+    decimal.js: ^10.4.3
     escape-latex: ^1.2.0
     fraction.js: ^4.2.0
     javascript-natural-sort: ^0.7.1
     seedrandom: ^3.0.5
     tiny-emitter: ^2.1.0
-    typed-function: ^2.1.0
+    typed-function: ^4.1.0
   bin:
     mathjs: bin/cli.js
-  checksum: de8d483da3da7845a07a0c8b3089c074358eddf4c341af8731fbcc2a3aefe1ab2aae3ad69c10819551ffd30d9ac5a4b5d25d7d41354e9534b44272f3ee938d98
+  checksum: 6718544e3e3beba466a9d3b98855d4a002a7b8bf369ddfb888ff6e2a377dac4ff2038387ed75399c4c28366a24354c7e0ce9bc6a3ee1ec6b7ddca686f25960bf
   languageName: node
   linkType: hard
 
@@ -2267,10 +2267,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"regenerator-runtime@npm:^0.13.4":
-  version: 0.13.9
-  resolution: "regenerator-runtime@npm:0.13.9"
-  checksum: 65ed455fe5afd799e2897baf691ca21c2772e1a969d19bb0c4695757c2d96249eb74ee3553ea34a91062b2a676beedf630b4c1551cc6299afb937be1426ec55e
+"regenerator-runtime@npm:^0.13.11":
+  version: 0.13.11
+  resolution: "regenerator-runtime@npm:0.13.11"
+  checksum: 27481628d22a1c4e3ff551096a683b424242a216fee44685467307f14d58020af1e19660bf2e26064de946bad7eff28950eae9f8209d55723e2d9351e632bbb4
   languageName: node
   linkType: hard
 
@@ -2742,10 +2742,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typed-function@npm:^2.1.0":
-  version: 2.1.0
-  resolution: "typed-function@npm:2.1.0"
-  checksum: 168c2c8f765fbecc842521a5fb62a5800958f9fcb0ce78d69c38a5e96c81fe133f853256ec8ee245ee2fc42b4c9342b5ba754c732189550c64c12e758892dc43
+"typed-function@npm:^4.1.0":
+  version: 4.1.0
+  resolution: "typed-function@npm:4.1.0"
+  checksum: 5d512a13501028abbf8676299b4f92209cb4a90fb9b002330494bfd2451b1f9ecde866dbd51b2e599f9ff3521349489b173df050528521d28a38cc071b8d5b8f
   languageName: node
   linkType: hard
 
