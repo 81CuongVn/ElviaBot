@@ -27,7 +27,7 @@
     "discord-emoji-convert": "^2.1.2",
     "discord.js": "^13.16.0",
     "dotenv": "^16.3.1",
-    "emoji-regex": "^10.1.0",
+    "emoji-regex": "^10.2.1",
     "figlet": "^1.5.2",
     "flip-text": "^1.2.0",
     "glob": "^8.0.3",
