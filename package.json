@@ -47,5 +47,5 @@
     "spongemock": "^0.0.8",
     "systeminformation": "^5.18.15"
   },
-  "packageManager": "yarn@3.6.2"
+  "packageManager": "yarn@3.6.3"
 }
