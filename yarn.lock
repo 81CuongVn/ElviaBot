@@ -28,13 +28,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@dice-roller/rpg-dice-roller@npm:^5.4.1":
-  version: 5.4.1
-  resolution: "@dice-roller/rpg-dice-roller@npm:5.4.1"
+"@dice-roller/rpg-dice-roller@npm:^5.5.0":
+  version: 5.5.0
+  resolution: "@dice-roller/rpg-dice-roller@npm:5.5.0"
   dependencies:
     mathjs: ^11.2.1
     random-js: ^2.1.0
-  checksum: 776bf286cc73cbeb162ae42aa7cdbd26f39be64655c95286da191fde1b36a7cc613b393d82ce9f81409131fe66c0471a348ef468dcdcb155e6500745170dc230
+  checksum: 757313a6889216b8102399e6f2ab9ec7590ac70c1fea347f998608ad12a7a4384699e9362687697a7225dfd6b0ba6c9c8d3d05438a03292c311cc008cbf47a4d
   languageName: node
   linkType: hard
 
@@ -867,7 +867,7 @@ __metadata:
   resolution: "elvia@workspace:."
   dependencies:
     "@anishshobith/deeptype": ^1.1.0
-    "@dice-roller/rpg-dice-roller": ^5.4.1
+    "@dice-roller/rpg-dice-roller": ^5.5.0
     "@discordjs/rest": ^0.6.0
     "@iamtraction/google-translate": ^1.1.2
     axios: ^0.27.2
