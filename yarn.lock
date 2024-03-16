@@ -894,7 +894,7 @@ __metadata:
     glob: ^8.1.0
     imdb-api: ^4.4.1
     inquirer: ^8.2.6
-    kitsu: ^10.1.2
+    kitsu: ^10.1.4
     moment: ^2.30.1
     moment-duration-format: ^2.3.2
     moment-timezone: ^0.5.34
@@ -1704,21 +1704,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"kitsu-core@npm:^10.1.2":
-  version: 10.1.2
-  resolution: "kitsu-core@npm:10.1.2"
-  checksum: 4c9417faaeda5ccc26b144232ede2061cf36ee68e91126bc172ca0109ef11ba623c15d7ce74d71c9aece122ac0f9f36a65b0840410d4d8cc10db09e3d8337bac
+"kitsu-core@npm:^10.1.4":
+  version: 10.1.4
+  resolution: "kitsu-core@npm:10.1.4"
+  checksum: 1ac287c87ea85a0a3d24463aed2eb4a155a6cb2784b4aea20ffdc69913c40c7dedec62659f24851d7dc9936292f44e58f40b913c77d773339eb0771dbb0173ca
   languageName: node
   linkType: hard
 
-"kitsu@npm:^10.1.2":
-  version: 10.1.2
-  resolution: "kitsu@npm:10.1.2"
+"kitsu@npm:^10.1.4":
+  version: 10.1.4
+  resolution: "kitsu@npm:10.1.4"
   dependencies:
     axios: ^0.27.0
-    kitsu-core: ^10.1.2
+    kitsu-core: ^10.1.4
     pluralize: ^8.0.0
-  checksum: e50412f233c7733c7bc8040bf7ea013fb957582094a842dddada9adcaf61cd8bad0f6bf5b1e1a302b8898e7390a87038e054cb24bee1165a1816a0addf469b28
+  checksum: 801c76ee98800c23b4a409cde6a5cf50d2a07c039c6d40553c26096100ac1598c2c5d24a15a1d551b493f869151e91ff72337682024d08558a9209d17bb4d0bd
   languageName: node
   linkType: hard
 
