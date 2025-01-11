@@ -439,17 +439,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"axios@npm:^0.28.1":
-  version: 0.28.1
-  resolution: "axios@npm:0.28.1"
-  dependencies:
-    follow-redirects: ^1.15.0
-    form-data: ^4.0.0
-    proxy-from-env: ^1.1.0
-  checksum: 5115a38d79064d07437c5a28f15841e3607634040e3120ec06a2c4367a7d07cf213b16496eab53b6f58ebc5fb377a440ba9ed4782529b14449a1e285734bfb54
-  languageName: node
-  linkType: hard
-
 "axios@npm:^0.29.0":
   version: 0.29.0
   resolution: "axios@npm:0.29.0"
@@ -895,7 +884,7 @@ __metadata:
     glob: ^8.1.0
     imdb-api: ^4.4.1
     inquirer: ^8.2.6
-    kitsu: ^10.1.5
+    kitsu: ^10.2.0
     moment: ^2.30.1
     moment-duration-format: ^2.3.2
     moment-timezone: ^0.5.34
@@ -1228,16 +1217,6 @@ __metadata:
   bin:
     flip: bin/flip
   checksum: 4d58fd985a558c6a12040ed11147c5caba5bdb72dd431a10996ce06d1952d90f16d1d6f19231c60879ad1b328d3592c2bedb7b3c4930dcbd71d0426fb04e061b
-  languageName: node
-  linkType: hard
-
-"follow-redirects@npm:^1.15.0":
-  version: 1.15.5
-  resolution: "follow-redirects@npm:1.15.5"
-  peerDependenciesMeta:
-    debug:
-      optional: true
-  checksum: 5ca49b5ce6f44338cbfc3546823357e7a70813cecc9b7b768158a1d32c1e62e7407c944402a918ea8c38ae2e78266312d617dc68783fac502cbb55e1047b34ec
   languageName: node
   linkType: hard
 
@@ -1705,21 +1684,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"kitsu-core@npm:^10.1.5":
-  version: 10.1.5
-  resolution: "kitsu-core@npm:10.1.5"
-  checksum: d0b39250f7c2f42833b6882f2a66c58683c8f67b85c96ecf586710116e8ea57e29411f444cdd5f641c2758c038ca05f0b091d0db31f0bb8ea35a748a7243eca3
+"kitsu-core@npm:^10.2.0":
+  version: 10.2.0
+  resolution: "kitsu-core@npm:10.2.0"
+  checksum: de5300a01d97a711930eac500360027bd9657ed449dd937380099aa95907cb392f0ad2fa19f303acebda0b969adcd4a8afcc088a8452a0e9a7fcd44952c65613
   languageName: node
   linkType: hard
 
-"kitsu@npm:^10.1.5":
-  version: 10.1.5
-  resolution: "kitsu@npm:10.1.5"
+"kitsu@npm:^10.2.0":
+  version: 10.2.0
+  resolution: "kitsu@npm:10.2.0"
   dependencies:
-    axios: ^0.28.1
-    kitsu-core: ^10.1.5
+    axios: ^0.29.0
+    kitsu-core: ^10.2.0
     pluralize: ^8.0.0
-  checksum: 40dff4faaf40313dba35f83a64b0db276462f89a66214fbe2037ff7ae79e8632c2cba7257ae23b55758fda814628dda14410c4ac092a5317284f6e8423ec7be2
+  checksum: ed1c1d8ad10c0030763e7300663bb84bc1e12d9633a2ae65d51c9efe1662df94bfe1aef1d1b42b085481f72ed36973df09a9e8075e6659869fdc9e272e6f4440
   languageName: node
   linkType: hard
 
