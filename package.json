@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@anishshobith/deeptype": "^1.1.0",
-    "@dice-roller/rpg-dice-roller": "^5.5.0",
+    "@dice-roller/rpg-dice-roller": "^5.5.1",
     "@discordjs/rest": "^0.6.0",
     "@iamtraction/google-translate": "^1.1.2",
     "axios": "^0.29.0",
