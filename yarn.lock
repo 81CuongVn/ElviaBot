@@ -439,17 +439,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"axios@npm:^0.29.0":
-  version: 0.29.0
-  resolution: "axios@npm:0.29.0"
-  dependencies:
-    follow-redirects: ^1.15.4
-    form-data: ^4.0.0
-    proxy-from-env: ^1.1.0
-  checksum: b365fa0471ff62472521932c68f152e98650804c016fc6a9fe337a6cd67201141baf14d29161527cce5189b9eba8f14cb5781e02c56e69f56784e9a23385d7e7
-  languageName: node
-  linkType: hard
-
 "axios@npm:^0.30.0":
   version: 0.30.0
   resolution: "axios@npm:0.30.0"
@@ -895,7 +884,7 @@ __metadata:
     glob: ^8.1.0
     imdb-api: ^4.4.1
     inquirer: ^8.2.6
-    kitsu: ^10.2.0
+    kitsu: ^10.2.1
     moment: ^2.30.1
     moment-duration-format: ^2.3.2
     moment-timezone: ^0.5.34
@@ -1695,21 +1684,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"kitsu-core@npm:^10.2.0":
-  version: 10.2.0
-  resolution: "kitsu-core@npm:10.2.0"
-  checksum: de5300a01d97a711930eac500360027bd9657ed449dd937380099aa95907cb392f0ad2fa19f303acebda0b969adcd4a8afcc088a8452a0e9a7fcd44952c65613
+"kitsu-core@npm:^10.2.1":
+  version: 10.2.1
+  resolution: "kitsu-core@npm:10.2.1"
+  checksum: 1cd9527a172bcc30e4b8853fa8a2b7dc6f4d33744c4be8e19b531a1b674a61cf9e58dbb2a1631331f03ff1d09e8327e525643a423282aa163c9d4ef3727086b4
   languageName: node
   linkType: hard
 
-"kitsu@npm:^10.2.0":
-  version: 10.2.0
-  resolution: "kitsu@npm:10.2.0"
+"kitsu@npm:^10.2.1":
+  version: 10.2.1
+  resolution: "kitsu@npm:10.2.1"
   dependencies:
-    axios: ^0.29.0
-    kitsu-core: ^10.2.0
+    axios: ^0.30.0
+    kitsu-core: ^10.2.1
     pluralize: ^8.0.0
-  checksum: ed1c1d8ad10c0030763e7300663bb84bc1e12d9633a2ae65d51c9efe1662df94bfe1aef1d1b42b085481f72ed36973df09a9e8075e6659869fdc9e272e6f4440
+  checksum: d18bf3c10750c86605ea092bfe209c66d9c6e020a92d4214b432cb958721dfda2e6bf51dfdb63f6aef9090c7b61c4b1e0fcbc788f9960f53c50fb6fc90e3474a
   languageName: node
   linkType: hard
 
