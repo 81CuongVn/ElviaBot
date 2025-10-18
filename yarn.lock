@@ -928,7 +928,7 @@ __metadata:
     discord-emoji-convert: ^2.1.2
     discord.js: ^13.17.1
     dotenv: ^16.6.1
-    emoji-regex: ^10.5.0
+    emoji-regex: ^10.6.0
     eslint: ^8.57.1
     figlet: ^1.9.3
     flip-text: ^1.2.0
@@ -952,10 +952,10 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"emoji-regex@npm:^10.5.0":
-  version: 10.5.0
-  resolution: "emoji-regex@npm:10.5.0"
-  checksum: 3a5164bfc2ac4685aa2fda613bb2b58d1d4e05b6ace9d87f8e119fe8cd39779875adfe1919b64f06f5dcd2b522238ad23b50caaaff7fb600bd53c84ff86e4b61
+"emoji-regex@npm:^10.6.0":
+  version: 10.6.0
+  resolution: "emoji-regex@npm:10.6.0"
+  checksum: 8785f6a7ec4559c931bd6640f748fe23791f5af4c743b131d458c5551b4aa7da2a9cd882518723cb3859e8b0b59b0cc08f2ce0f8e65c61a026eed71c2dc407d5
   languageName: node
   linkType: hard
 
