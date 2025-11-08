@@ -846,10 +846,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"discord-api-types@npm:^0.38.31":
-  version: 0.38.31
-  resolution: "discord-api-types@npm:0.38.31"
-  checksum: 013374be40e3b4d09b4e410941878e3752f13cba566c71803a8cc60edf0c64543757c132fe7079992661514c8fd4ca6159b7a666c8c1978b3b28a89ac033b610
+"discord-api-types@npm:^0.38.32":
+  version: 0.38.32
+  resolution: "discord-api-types@npm:0.38.32"
+  checksum: 9d8975102181e636e106823ec8e71a31114be1dad46c4d3b69ed3165f7e08260f188fd02aaa0c226a5036bb4876f13d530ce0b8172ddf8d253e474f7126c730b
   languageName: node
   linkType: hard
 
@@ -924,7 +924,7 @@ __metadata:
     "@iamtraction/google-translate": ^1.1.2
     axios: ^0.30.1
     colorette: ^2.0.20
-    discord-api-types: ^0.38.31
+    discord-api-types: ^0.38.32
     discord-emoji-convert: ^2.1.2
     discord.js: ^13.17.1
     dotenv: ^16.6.1
