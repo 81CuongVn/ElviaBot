@@ -1940,7 +1940,7 @@ __metadata:
     node-spotify-api: ^1.1.1
     openweather-apis: ^4.5.0
     owofy: ^1.0.2
-    semver: ^7.8.2
+    semver: ^7.8.4
     simple-youtube-api: ^5.2.1
     spongemock: ^0.0.8
     systeminformation: ^5.31.7
@@ -3632,12 +3632,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"semver@npm:^7.8.2":
-  version: 7.8.2
-  resolution: "semver@npm:7.8.2"
+"semver@npm:^7.8.4":
+  version: 7.8.4
+  resolution: "semver@npm:7.8.4"
   bin:
     semver: bin/semver.js
-  checksum: d2c9354c4e793a3b9c74511fbb82884f95b7237a1008ccda4523ae0cd1fb6a72b4715edd4f3d4fd66943dd47226d35212949fcf064df896ea5ee5469310da728
+  checksum: 42404642f4b892bd95859c6e2c5777a2916d6e4f0d924441593dea0911cadf5d8761d41b4ca3701793818ecdc72982df5c6d6328cba88252a1f0ebf93e375463
   languageName: node
   linkType: hard
 
