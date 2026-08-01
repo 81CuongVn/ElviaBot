@@ -1925,7 +1925,7 @@ __metadata:
     dotenv: ^16.6.1
     emoji-regex: ^10.6.0
     eslint: ^8.57.1
-    figlet: ^1.11.0
+    figlet: ^1.11.4
     flip-text: ^1.2.0
     glob: ^8.1.0
     imdb-api: ^4.4.1
@@ -2238,14 +2238,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"figlet@npm:^1.11.0":
-  version: 1.11.0
-  resolution: "figlet@npm:1.11.0"
+"figlet@npm:^1.11.4":
+  version: 1.11.4
+  resolution: "figlet@npm:1.11.4"
   dependencies:
     commander: ^14.0.0
   bin:
     figlet: bin/index.js
-  checksum: 24b15e4b7601d4f074d87ba4028783e6cbf1c48ec728bf275016aa2a1293db9d68d10d8d6038a7d6bf4a1c6d118a922f6cd9f44a75b3c9be70fd4472fcb1a94f
+  checksum: 0b65f51048aecbfc7eb26246824e1a05c0c82051acd4d8272c61c0965617708d104228f2c9f11994b4d9921dfb76929e959d2961e621fdc86c47255895efc129
   languageName: node
   linkType: hard
 
