@@ -1936,7 +1936,7 @@ __metadata:
     moment-timezone: ^0.6.3
     mongoose: ^6.13.11
     ms: ^2.1.3
-    nanoid: ^3.3.16
+    nanoid: ^3.3.18
     node-spotify-api: ^1.1.1
     openweather-apis: ^4.5.0
     owofy: ^1.0.2
@@ -3154,12 +3154,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nanoid@npm:^3.3.16":
-  version: 3.3.16
-  resolution: "nanoid@npm:3.3.16"
+"nanoid@npm:^3.3.18":
+  version: 3.3.18
+  resolution: "nanoid@npm:3.3.18"
   bin:
     nanoid: bin/nanoid.cjs
-  checksum: 2489d8f87f02178a15b901d7d06e490838383a2acdf01ec2b4e4343c02325ab648965a539eba8bdb821560a33e4c34be506b9e1c7c1bb5cb750e894f500fce92
+  checksum: db804317d337b41602666f23014e399d1263033d13a903955c246378256fd4e002519e87199ca40b19aff52274965ac7cc6e70c13a63e194e15c4664724602d3
   languageName: node
   linkType: hard
 
