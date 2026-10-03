@@ -1933,7 +1933,7 @@ __metadata:
     kitsu: ^10.2.1
     moment: ^2.31.0
     moment-duration-format: ^2.3.2
-    moment-timezone: ^0.6.4
+    moment-timezone: ^0.6.5
     mongoose: ^6.13.11
     ms: ^2.1.3
     nanoid: ^3.3.16
@@ -3058,12 +3058,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"moment-timezone@npm:^0.6.4":
-  version: 0.6.4
-  resolution: "moment-timezone@npm:0.6.4"
+"moment-timezone@npm:^0.6.5":
+  version: 0.6.5
+  resolution: "moment-timezone@npm:0.6.5"
   dependencies:
     moment: ^2.29.4
-  checksum: a6725b43d88fbb9ab692ee7368b4db8f7f38423f51e4f5f297d1b2123959214580b28b79bdec030831670c27d5274c76ba5fef9da23dbd8183108c796993b13d
+  checksum: bbcad50c94f955346ca6483ae77d2304620a23dc7d2cbbed97749ed455f5cc67efbe149b5ea0e0333b068436db55730b90aa2d60bbd5cbebe06a9435927d9232
   languageName: node
   linkType: hard
 
