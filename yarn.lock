@@ -515,22 +515,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/runtime@npm:^7.25.7":
-  version: 7.26.7
-  resolution: "@babel/runtime@npm:7.26.7"
-  dependencies:
-    regenerator-runtime: ^0.14.0
-  checksum: a1664a08f3f4854b895b540cca2f5f5c6c1993b5fb788c9615d70fc201e16bb254df8e0550c83eaf2749a14d87775e11a7c9ded6161203e9da7a4a323d546925
+"@babel/runtime@npm:^7.26.10":
+  version: 7.29.14
+  resolution: "@babel/runtime@npm:7.29.14"
+  checksum: fe9408d932c8117f398ccfc511367ae1c4fc4ecb08f8c38e6503c138895ccfa43e9b34a871c3303964a0cc585d11756dda58a1227d775da9cc47b32fdfac1905
   languageName: node
   linkType: hard
 
-"@dice-roller/rpg-dice-roller@npm:^5.5.1":
-  version: 5.5.1
-  resolution: "@dice-roller/rpg-dice-roller@npm:5.5.1"
+"@dice-roller/rpg-dice-roller@npm:^5.5.2":
+  version: 5.5.2
+  resolution: "@dice-roller/rpg-dice-roller@npm:5.5.2"
   dependencies:
-    mathjs: ^14.2.0
+    mathjs: ^15.2.0
     random-js: ^2.1.0
-  checksum: 744701a1fd451a98d1e581df9657aed3281e9cc910991b23c33ce70bbcb488db0e250b28952ecde5cda03aaaad791d86477ee3395d328163d128e29e0b64c426
+  checksum: d638cbdc6eca705d33173dac8badbc4bc597f530c353ad64bbbfaf17d9232fa372a5d1b5474e01a591905de65248e35aed9dd7c35761bbf230f661bb1cb684bc
   languageName: node
   linkType: hard
 
@@ -1914,7 +1912,7 @@ __metadata:
   resolution: "elvia@workspace:."
   dependencies:
     "@anishshobith/deeptype": ^1.1.0
-    "@dice-roller/rpg-dice-roller": ^5.5.1
+    "@dice-roller/rpg-dice-roller": ^5.5.2
     "@discordjs/rest": ^0.6.0
     "@iamtraction/google-translate": ^1.1.2
     axios: ^0.35.0
@@ -2970,11 +2968,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mathjs@npm:^14.2.0":
-  version: 14.2.1
-  resolution: "mathjs@npm:14.2.1"
+"mathjs@npm:^15.2.0":
+  version: 15.2.0
+  resolution: "mathjs@npm:15.2.0"
   dependencies:
-    "@babel/runtime": ^7.25.7
+    "@babel/runtime": ^7.26.10
     complex.js: ^2.2.5
     decimal.js: ^10.4.3
     escape-latex: ^1.2.0
@@ -2985,7 +2983,7 @@ __metadata:
     typed-function: ^4.2.1
   bin:
     mathjs: bin/cli.js
-  checksum: 826b4c14b77f0dbef7ea91e021cf76258798244d1d9ed88e639c2ae0b28e6789d063b1dd7c6fe3c279bc56f526147c9d050c6371a7932ba19fc5e2c660d82969
+  checksum: 0cdb352b21a7ecdbd474e2175d19a2ffa241d5bdbcefd08dde22d435b1825dc81381d5482e3a9e7d271148060c5c6b5410b0b5124469cb5bfc4c74778182d8cc
   languageName: node
   linkType: hard
 
@@ -3479,13 +3477,6 @@ __metadata:
   dependencies:
     readable-stream: ^3.6.0
   checksum: 8c56cc62c68513425ddfa721954875b382768f83fa20e6b31e365ee00cbe7a3d6296f66f7f1107b16cd3416d33aa9f1680475376400d62a081a88f81f0ea7f9c
-  languageName: node
-  linkType: hard
-
-"regenerator-runtime@npm:^0.14.0":
-  version: 0.14.1
-  resolution: "regenerator-runtime@npm:0.14.1"
-  checksum: 9f57c93277b5585d3c83b0cf76be47b473ae8c6d9142a46ce8b0291a04bb2cf902059f0f8445dcabb3fb7378e5fe4bb4ea1e008876343d42e46d3b484534ce38
   languageName: node
   linkType: hard
 
