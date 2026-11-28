@@ -1941,7 +1941,7 @@ __metadata:
     semver: ^7.8.6
     simple-youtube-api: ^5.2.1
     spongemock: ^0.0.8
-    systeminformation: ^5.33.23
+    systeminformation: ^5.33.26
   languageName: unknown
   linkType: soft
 
@@ -3815,12 +3815,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"systeminformation@npm:^5.33.23":
-  version: 5.33.23
-  resolution: "systeminformation@npm:5.33.23"
+"systeminformation@npm:^5.33.26":
+  version: 5.33.26
+  resolution: "systeminformation@npm:5.33.26"
   bin:
     systeminformation: lib/cli.js
-  checksum: c256cbf53a3b1c090599919319175f85fa91d3d3591303abad8c1dda0450d252e425467a8c7c03268f81716478ac5fc2191830847a8e16beebab85c3eee07bb0
+  checksum: 7c6f5c0627c7100767ad4265a6ff0930209a60676998716cac7bcc2876971b99aae29de917521971c87a0651c1d8bbdcbc0c7bb9952ccf6fb0254342d8cfa38e
   conditions: (os=darwin | os=linux | os=win32 | os=freebsd | os=openbsd | os=netbsd | os=sunos | os=android)
   languageName: node
   linkType: hard
